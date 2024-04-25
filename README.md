@@ -19,3 +19,8 @@ npm run build
 5. Start the local server
 ```
 npm start
+```
+
+The server will be running locally at the localhost address on the selected port (e.g., http://localhost:3000). To retrieve data, just issue an HTTP request to the /data route (e.g., perform a GET request at http://localhost:3000/data).
+
+The project also has been deployed on Render. You can access it at the following link: https://json-server-api-lsdr.onrender.com
